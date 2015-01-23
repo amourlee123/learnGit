@@ -4,5 +4,5 @@ I want to study how to use git
 I am working now
 time is going.....
 git has a mutable index called stage.
-git tracks changes
+git tracks changes of files.
 
