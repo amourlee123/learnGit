@@ -1,3 +1,0 @@
-this is a git message
-i am a student
-this is a new file.
